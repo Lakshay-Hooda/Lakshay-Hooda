@@ -10,7 +10,7 @@ I'm a passionate developer with a focus on web development and a love for solvin
 
 - 🌱 I’m dedicated to continuously learning and improving my skills.
 - 💻 My main focus is **Web Development**, but I also enjoy general programming and teaching others.
-- 📫 How to reach me: **(https://www.linkedin.com/in/lakshay-hooda-3b04aa36b/)**
+- 📫 How to reach me: **https://www.linkedin.com/in/lakshay-hooda-3b04aa36b/**
 
 ---
 
@@ -61,16 +61,9 @@ Here are some of the technologies I work with:
 
 ---
 
-### 🚀 Featured Project
-
-| Project | Description |
-|---|---|
-| **[UPES Campus Navigator](https://github.com/Lakshay-Hooda/upes-campus-navigator)** | A project designed to help navigate the UPES campus. |
-| **[Gesture controlled mouse](https://github.com/Lakshay-Hooda/gesture-control-mouse)** | A project designed to control your mouse just by gestures. |
-🚀 Featured Projects
-------------------
-
 | Project | Description |
 | :--- | :--- |
 | **[Campus Navigator](https://github.com/Lakshay-Hooda/upes-campus-navigator)** | An interactive mapping application built to optimize routing and navigation across the UPES campus. |
 | **[Gesture Control Mouse](https://github.com/Lakshay-Hooda/gesture-control-mouse)** | A computer vision desktop GUI that replaces physical mouse hardware using real-time hand tracking (Python, OpenCV, PyQt6). |
+
+------------------

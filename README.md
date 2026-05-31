@@ -66,5 +66,5 @@ Here are some of the technologies I work with:
 | Project | Description |
 |---|---|
 | **[UPES Campus Navigator](https://github.com/Lakshay-Hooda/upes-campus-navigator)** | A project designed to help navigate the UPES campus. |
-| **[Gesture controled mouse](https://github.com/Lakshay-Hooda/gesture-control-mous)** | A project designed to control your mouse just by gestures. |
+| **[Gesture controled mouse](https://github.com/Lakshay-Hooda/gesture-control-mouse)** | A project designed to control your mouse just by gestures. |
 

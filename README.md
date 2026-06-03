@@ -61,9 +61,19 @@ Here are some of the technologies I work with:
 
 ---
 
+### Completed Projects
+
 | Project | Description |
 | :--- | :--- |
 | **[Campus Navigator](https://github.com/Lakshay-Hooda/upes-campus-navigator)** | An interactive mapping application built to optimize navigation across the UPES campus. |
 | **[Gesture Control Mouse](https://github.com/Lakshay-Hooda/gesture-control-mouse)** | A computer vision desktop GUI that replaces physical mouse hardware using real-time hand tracking (Python, OpenCV, PyQt6). |
+
+---
+
+### Ongoing Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[VoxA](https://github.com/Lakshay-Hooda/VoxA)** | VoxA is an AI-powered, real-time computer vision application that translates live sign language gestures into English text using body-tracking. |
 
 ------------------

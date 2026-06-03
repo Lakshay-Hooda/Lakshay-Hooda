@@ -9,7 +9,7 @@ I'm a passionate developer with a focus on web development and a love for solvin
 ### 👨‍💻 About Me
 
 - 🌱 I’m dedicated to continuously learning and improving my skills.
-- 💻 My main focus is **Web Development**, but I also enjoy general programming and teaching others.
+- 💻 My main focus is **Cyber Security**, but I also enjoy general programming and web development.
 - 📫 How to reach me: **https://www.linkedin.com/in/lakshay-hooda-3b04aa36b/**
 
 ---

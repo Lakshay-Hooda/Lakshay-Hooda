@@ -112,9 +112,8 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-Hooda&show_icons=true&theme=tokyonight&count_private=true" alt="Lakshay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-Hooda&layout=compact&theme=tokyonight" alt="Top Languages Used" />
-</p>
+![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshay-Hooda&show_icons=true&theme=dark)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-Hooda&layout=compact&theme=dark)
 
 ------------------

@@ -1,5 +1,10 @@
 # Hi, I'm Lakshay Hooda 👋
+<p align="left">
+<a href="https://www.linkedin.com/in/lakshay-hooda-3b04aa36b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lakshayh006@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 <br/>
 
 I'm a passionate developer with a focus on web development and a love for solving problems with code. I'm always eager to learn new technologies and apply my skills to impactful projects. Currently, I am seeking new opportunities to contribute and grow.
@@ -8,9 +13,11 @@ I'm a passionate developer with a focus on web development and a love for solvin
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m dedicated to continuously learning and improving my skills.
-- 💻 My main focus is **Cyber Security**, but I also enjoy general programming and web development.
-- 📫 How to reach me: **https://www.linkedin.com/in/lakshay-hooda-3b04aa36b/**
+### About Me
+- 👋 Hi, I’m @Lakshay-Hooda
+- 👀 I’m interested in AI/ML, Cyber Security, Backend development
+- 🌱 I’m currently learning Nextjs, cloud computing, computer vision
+- 🤔 I’m looking for an opportunity in Cyber Security / Devops / Web Development
 
 ---
 
@@ -100,5 +107,14 @@ Here are some of the technologies I work with:
 | Project | Description |
 | :--- | :--- |
 | **[VoxA](https://github.com/Lakshay-Hooda/VoxA)** | VoxA is an AI-powered, real-time computer vision application that translates live sign language gestures into English text using body-tracking. |
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshay-Hooda&show_icons=true&theme=tokyonight&count_private=true" alt="Lakshay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-Hooda&layout=compact&theme=tokyonight" alt="Top Languages Used" />
+</p>
 
 ------------------

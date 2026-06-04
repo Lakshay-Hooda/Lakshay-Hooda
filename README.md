@@ -13,7 +13,6 @@ I'm a passionate developer with a focus on web development and a love for solvin
 
 ### 👨‍💻 About Me
 
-### About Me
 - 👋 Hi, I’m @Lakshay-Hooda
 - 👀 I’m interested in AI/ML, Cyber Security, Backend development
 - 🌱 I’m currently learning Nextjs, cloud computing, computer vision
@@ -112,8 +111,8 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Metrics
 
-![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakshay-Hooda&show_icons=true&theme=dark)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay-Hooda&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-Hooda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ------------------

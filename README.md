@@ -51,6 +51,18 @@ Here are some of the technologies I work with:
       <br>Java
     </td>
     <td align="center" width="96">
+  <a href="#-my-tech-stack">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+  </a>
+  <br>OpenCV
+</td>
+<td align="center" width="96">
+  <a href="#-my-tech-stack">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  </a>
+  <br>Git
+</td>
+    <td align="center" width="96">
       <a href="#-my-tech-stack">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
       </a>

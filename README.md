@@ -112,7 +112,13 @@ Here are some of the technologies I work with:
 ## 📊 GitHub Metrics
 
 <p align="center">
+  <!-- GitHub Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshay-Hooda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay-Hooda&bg_color=1a1b27&color=70a5fd&line=3d59a1&point=70a5fd&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ------------------
